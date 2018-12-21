@@ -7,3 +7,4 @@ def index():
 def hello():
 	return 'hello world'
 
+c = 2

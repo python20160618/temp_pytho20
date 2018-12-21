@@ -18,4 +18,7 @@ e = 5
 
 d = 3
 
+def detail():
+	pass
+
 
